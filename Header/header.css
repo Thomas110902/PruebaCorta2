@@ -1,0 +1,4 @@
+.Header1{
+    display: grid;
+    grid-template-columns: 20% 40% 30% 20%;
+}

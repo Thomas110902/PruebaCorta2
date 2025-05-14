@@ -1,0 +1,14 @@
+body{
+    flex-direction: column;
+    display: flex;
+}
+main{
+    width: 1440px;
+    height: 3035px;
+    border: 1px solid black;
+    margin: auto;
+
+
+    
+  
+}
