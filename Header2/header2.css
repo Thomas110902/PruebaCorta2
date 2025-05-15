@@ -1,0 +1,31 @@
+.navegador{
+    margin-top: 15px;
+    display: grid;
+    grid-template-columns: repeat(8,auto);
+    padding-left: 150px;
+    padding-right: 150px;
+    align-items: center;
+    gap: 9px
+
+}
+.opciones{
+    border-radius: 25px;
+    padding: 10px 16px;
+    background-color: #f3f9fb;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+}
+.opciones1{
+    border-radius: 25px;
+    padding: 10px 16px;
+    background-color: #008ecc;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    color: #ffffff;
+   
+}
+.flecha{
+    padding-left: 9px;
+}
