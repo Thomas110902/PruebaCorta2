@@ -1,4 +1,66 @@
 .Header1{
     display: grid;
-    grid-template-columns: 20% 40% 30% 20%;
+    grid-template-columns: 300px 1fr auto auto;
+    padding-left: 150px;
+    padding-right: 150px;
+    align-items: center;
+    gap: 20px;
+    padding-top: 15px;
+
 }
+.Mega{
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #008ecc;
+    font-weight: 600;
+
+    display: flex;
+    align-items: center;
+    margin: 5px;
+}
+.Busca{
+    display: flex;
+    align-items: center;
+    border: 1px solid white;
+    background-color: #f3f9fb;
+    padding: 10px;
+
+    color: #666666;
+
+    border-radius: 20px;
+    
+}
+.Buscador{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    padding-left: 5px;
+    color: #666666;
+}
+.Lupa{
+    padding-right: 20px;
+    padding-left: 10px;
+  
+}
+
+.InicioSesion{
+    font-size: 16px;
+    font-weight:700;
+    border-right: 1px solid #d9d9d9;
+    margin: auto;
+    padding: 0 10px;
+    color: #666666;
+}
+.Lista{
+    padding-left: 200px;
+   
+}
+.Cart{
+    font-size: 16px;
+    font-weight:700;
+    color: #666666;
+    
+}
+
+
+
