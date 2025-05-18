@@ -1,0 +1,118 @@
+.Padrefooter{
+    display: grid;
+    grid-template-columns: 650px 355px 435px;
+    grid-template-rows: 500px ;
+    padding-top: 100px;
+}
+.parteone{
+    
+    background-color: #008ecc;
+    padding-top: 75px;
+    padding-left: 150px;
+    
+}
+
+.dos{
+    padding-top: 35px;
+    font-weight: 700;
+    font-size: 20px;
+    color: #ffffff;
+}
+.tres{  
+    padding-top: 20px;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    font-weight: 500;
+    font-size: 16px;
+    color: #ffffff;
+
+}
+.cuatroo{
+    padding-top: 20px;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    font-weight: 500;
+    font-size: 16px;
+    color: #ffffff;
+}
+.numerooo{
+    font-weight: 600;
+    font-size: 16px;
+    padding-left: 40px;
+    color: #ffffff;
+}
+.Downloand{
+    padding-top: 15px;
+    font-weight: 700;
+    font-size: 20px;
+    color: #ffffff;
+}
+.applestore{
+    padding-top: 15px;
+}
+.partetwo{
+    background-color: #008ecc;
+    padding-top: 65px;
+    padding-left: 25px;
+    padding-right: 50px;
+}
+.Most{
+    border-bottom:1px solid #ffffff;
+    font-weight: 600;
+    font-size: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 15px;
+    color: #ffffff;
+}
+.Most2{
+    border-bottom:1px solid #ffffff;
+    font-weight: 600;
+    font-size: 20px;
+    padding-left: 30px;
+    padding-right: 60px;
+    padding-bottom: 15px;
+    color: #ffffff;
+}
+ul{
+    padding-left: 50px;
+    padding-top: 20px;
+    color: #ffffff;
+
+}
+li{
+    padding-bottom: 25px;
+    font-weight: 500;
+    font-size: 16px;
+}
+.partetree{
+   
+    background-color: #008ecc;
+    background-color: #008ecc;
+    padding-top: 65px;
+    padding-left: 25px;
+    padding-right: 190px;
+}
+.footerfinal{
+    display: grid;
+    grid-template-columns: 1440px;
+    grid-template-rows: 100px;
+}
+.fin1{
+    background-color: #008ecc;
+    padding-left: 105px;
+    padding-right: 105px;
+}
+.fin{
+    background-color: #008ecc;
+    border-top: 1px solid #05abf3;
+    padding-left: 105px;
+    padding-right: 105px;
+    padding-top: 35px;
+    font-weight: 400;
+    font-size: 20px;
+    color: #ffffff;
+    text-align: center;
+}
