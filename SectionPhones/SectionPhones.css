@@ -1,0 +1,331 @@
+.section2{
+    display: grid;
+    grid-template-columns: 235px 150px 750px ;
+    padding-left: 150px;
+    padding-right:  150px; 
+    padding-top: 90px;
+  
+
+}
+.Grab{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 24px;
+    border-bottom: 3px solid #008ecc;
+    color: #666666;
+    
+}
+.Smart{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 24px;
+    padding-left: 5px;
+    padding-bottom: 15px;
+    border-bottom: 3px solid #008ecc;
+    color: #008ecc;
+    font-weight: 600;
+}
+.View{
+    font-size: 16px;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    padding-bottom: 15px;
+    gap: 10px;
+    
+}
+.Phones{
+    display: grid;
+    grid-template-columns: repeat(5,215px);
+    grid-template-rows: 280px;
+    padding-left: 150px;
+    padding-right:  150px; 
+    padding-top: 50px;
+    gap: 15px;
+}
+.tel1{
+    border: 1px solid #EDEDED;
+    border-radius: 30px;
+}
+.cuadro1{
+    border-radius: 30px 30px 0 0;
+    height: 65%;  
+    display: flex;
+    padding-left: 60px;
+    background-color: #f5f5f5;
+}
+.descuento{
+   
+    height: 53px;
+    width: 51px;
+    display: flex;
+    align-items: flex-end;
+    align-items: center;
+    margin-left: 5px;
+    padding-left: 10px;
+    border-radius: 0 15px 0 15px;
+    background-color: #008ecc;
+    color: #ffffff;
+    
+}
+
+.cuadro2{
+   
+    height: 35% ;
+    padding: 10px;
+    padding-left: 15px;
+}
+.Galaxy{
+    padding-bottom: 5px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #000000;
+}
+.Precionormal{
+    display: flex;
+    gap: 10px;
+    padding-bottom: 10px;
+    font-size: 16px;
+    font-weight: 700;
+}
+.preciodescuento{
+    font-weight: 400;
+    font-size: 16px;
+    color: #222222;
+    text-decoration: line-through;
+}
+.Precio{
+    font-weight: 600;
+    font-size: 16px;
+    color: #249B3E;
+    border-top: 1px solid #EDEDED;
+    padding-top: 5px;
+}
+.tel2{
+    border: 1px solid #EDEDED;
+    border-radius: 30px;
+}
+.cuadro3{
+    border-radius: 30px 30px 0 0;
+    height: 65%;  
+    display: flex;
+    padding-left: 30px;
+    background-color: #f5f5f5;
+}
+.descuento{
+   
+    height: 53px;
+    width: 51px;
+    display: flex;
+    align-items: flex-end;
+    align-items: center;
+    margin-left: 5px;
+    padding-left: 10px;
+    border-radius: 0 15px 0 15px;
+    background-color: #008ecc;
+    color: #ffffff;
+    
+}
+
+.cuadro4{
+   
+    height: 35% ;
+    padding: 10px;
+    padding-left: 15px;
+}
+.Galaxy{
+    padding-bottom: 5px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #000000;
+}
+.Precionormal{
+    display: flex;
+    gap: 10px;
+    padding-bottom: 10px;
+    font-size: 16px;
+    font-weight: 700;
+}
+.preciodescuento{
+    font-weight: 400;
+    font-size: 16px;
+    color: #222222;
+}
+.Precio{
+    font-weight: 600;
+    font-size: 16px;
+    color: #249B3E;
+    border-top: 1px solid #EDEDED;
+    padding-top: 5px;
+}
+.tel3{
+    border: 1px solid #EDEDED;
+    border-radius: 30px;
+}
+.cuadro5{
+    border-radius: 30px 30px 0 0;
+    height: 65%;  
+    display: flex;
+    padding-left: 20px;
+    background-color: #f5f5f5;
+}
+.descuento{
+   
+    height: 53px;
+    width: 51px;
+    display: flex;
+    align-items: flex-end;
+    align-items: center;
+    margin-left: 5px;
+    padding-left: 10px;
+    border-radius: 0 15px 0 15px;
+    background-color: #008ecc;
+    color: #ffffff;
+    
+}
+
+.cuadro6{
+   
+    height: 35% ;
+    padding: 10px;
+    padding-left: 15px;
+}
+.Galaxy{
+    padding-bottom: 5px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #000000;
+}
+.Precionormal{
+    display: flex;
+    gap: 10px;
+    padding-bottom: 10px;
+    font-size: 16px;
+    font-weight: 700;
+}
+.preciodescuento{
+    font-weight: 400;
+    font-size: 16px;
+    color: #222222;
+}
+.Precio{
+    font-weight: 600;
+    font-size: 16px;
+    color: #249B3E;
+    border-top: 1px solid #EDEDED;
+    padding-top: 5px;
+}
+.tel4{
+    border: 1px solid #EDEDED;
+    border-radius: 30px;
+}
+.cuadro7{
+    border-radius: 30px 30px 0 0;
+    height: 65%;  
+    display: flex;
+    padding-left: 20px;
+    background-color: #f5f5f5;
+}
+.descuento{
+   
+    height: 53px;
+    width: 51px;
+    display: flex;
+    align-items: flex-end;
+    align-items: center;
+    margin-left: 5px;
+    padding-left: 10px;
+    border-radius: 0 15px 0 15px;
+    background-color: #008ecc;
+    color: #ffffff;
+    
+}
+
+.cuadro8{
+   
+    height: 35% ;
+    padding: 10px;
+    padding-left: 15px;
+}
+.Galaxy{
+    padding-bottom: 5px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #000000;
+}
+.Precionormal{
+    display: flex;
+    gap: 10px;
+    padding-bottom: 10px;
+    font-size: 16px;
+    font-weight: 700;
+}
+.preciodescuento{
+    font-weight: 400;
+    font-size: 16px;
+    color: #222222;
+}
+.Precio{
+    font-weight: 600;
+    font-size: 16px;
+    color: #249B3E;
+    border-top: 1px solid #EDEDED;
+    padding-top: 5px;
+}
+.tel5{
+    border: 1px solid #EDEDED;
+    border-radius: 30px;
+}
+.cuadro9{
+    border-radius: 30px 30px 0 0;
+    height: 65%; 
+    padding-left: 45px;
+    display: flex;
+    background-color: #f5f5f5;
+}
+.descuento{
+   
+    height: 53px;
+    width: 51px;
+    display: flex;
+    align-items: flex-end;
+    align-items: center;
+    margin-left: 5px;
+    padding-left: 10px;
+    border-radius: 0 15px 0 15px;
+    background-color: #008ecc;
+    color: #ffffff;
+    
+}
+
+.cuadro10{
+   
+    height: 35% ;
+    padding: 10px;
+    padding-left: 15px;
+}
+.Galaxy{
+    padding-bottom: 5px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #000000;
+}
+.Precionormal{
+    display: flex;
+    gap: 10px;
+    padding-bottom: 10px;
+    font-size: 16px;
+    font-weight: 700;
+}
+.preciodescuento{
+    font-weight: 400;
+    font-size: 16px;
+    color: #222222;
+}
+.Precio{
+    font-weight: 600;
+    font-size: 16px;
+    color: #249B3E;
+    border-top: 1px solid #EDEDED;
+    padding-top: 5px;
+}
+
+

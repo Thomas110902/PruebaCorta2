@@ -1,45 +1,85 @@
-
-.section{
-    height: 320px;
+.section {
     background-color: #212844;
-    padding: 28px;
-    padding-left: 100px;
-    border-radius: 16px;
-    margin: 35px 150px;
+    margin: 20px 150px 0;
+    height: 316px;
+    border-radius: 25px;
+    position: relative; 
+    overflow: hidden;
+}
 
-}
-.alineado{
+.alineado {
     display: flex;
-    align-items: center;  
+    height: 100%;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 60px; 
 }
-.textos{
-    display: flex;
-  flex-direction: column;
-  padding: 10px;
+
+.textos {
+    flex: 1;
+    padding-right: 40px;
 }
-.reloj{
-    padding-left: 70px;
-}
-.spantext1{
+
+.spantext1 {
     color: #ffffff;
     font-size: 30px;
     font-weight: 600;
-    font-family:Arial, Helvetica, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     padding-bottom: 10px;
+    display: block;
 }
-.spantext2{
+
+.spantext2 {
     color: #ffffff;
     font-size: 63px;
     font-weight: 700;
-    font-family:Arial, Helvetica, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     padding-bottom: 10px;
-
+    display: block;
 }
-.spantext3{
+
+.spantext3 {
     color: #ffffff;
     font-size: 30px;
     font-weight: 600;
-    font-family:Arial, Helvetica, sans-serif;
-    padding-bottom: 65px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 20px;
+    display: block;
+}
+.reloj1 {
+    position: relative;
+    display: flex;
+    align-items: center;
+}
 
+.reloj {
+    width: 250px; 
+    height: auto;
+
+}
+
+
+.Circulo, .Circulo2 {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: #f3f9fb;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+   
+}
+
+.Circulo {
+    left: -880px; 
+}
+
+.Circulo2 {
+    right: -100px; 
+}
+
+.Circulo img, .Circulo2 img {
+    width: 15px;
+    height: 15px;
 }
