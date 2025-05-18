@@ -1,0 +1,105 @@
+.section4{
+    display: grid;
+    grid-template-columns: 45px 230px 925px ;
+    padding-left: 150px;
+    padding-right:  150px; 
+    padding-top: 50px;
+}
+.Brands{
+    display: grid;
+    grid-template-columns: repeat(3,400px);
+    grid-template-rows: 265px;
+    padding-left: 150px;
+    padding-right:  150px; 
+    padding-top: 50px;
+    gap: 15px;
+
+}
+.apple{
+    margin: 5px;
+    height: 250px ;
+    display: flex;
+    background-color: #313131;
+    border-radius: 30px;
+}
+.xaomi{
+    margin: 5px;
+    height: 250px ;
+    display: flex;
+    background-color: #FFecdf;
+    border-radius: 30px;
+}
+.narzo{
+    margin: 5px;
+    height: 250px ;
+    display: flex;
+    background-color: #fff3cc;
+    border-radius: 30px;
+}
+.parte1{
+    border: 1px solid #313131;
+    border-radius: 30px;
+    margin: 5px;
+    padding-left: 15px;
+    padding-right: 10px;
+    padding-top: 10px;
+
+    
+}
+.parte1narzo{
+    border: 1px solid #fff3cc;
+    border-radius: 30px;
+    margin: 5px;
+    padding-left: 10px;
+    padding-top: 10px;
+
+    
+}
+.parte1xaomi{
+    border: 1px solid #FFecdf;
+    border-radius: 30px;
+    margin: 5px;
+    padding-left: 15px;
+    padding-right: 10px;
+    padding-top: 10px;
+
+    
+}
+.phonee{
+    padding-top: 10px;
+}
+.logito{
+    padding-top: 25px;
+
+}
+.tex1{
+    padding-top: 40px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+}
+.tex2{
+    padding-top: 55px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #222222;
+}
+.tex3{
+    padding-top: 20px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #222222;
+}
+.parte1{
+    width: 45%;
+    padding-top: 25px;
+}
+.parte2{
+    width: 210px;
+    padding-top: 35px;
+}
+.parte3{
+    width: 210px;
+    padding-top: 25px;
+}
+
